@@ -12,8 +12,9 @@ Random sampling could clastering your sample
 Discrete type can do your model so linear
 
 Second objective to compare PINN and FDM methods for PDE solution (FDM solution can find: https://github.com/shouldbeqt/Burgers-equation-FDM-solution):
-https://github.com/shouldbeqt/PINN-Burgers-equation/blob/main/lhs_vs_macc_0_1.gif
+![lhs_vs_macc_0_1](https://github.com/user-attachments/assets/d995b84b-cd21-4303-b7f8-2d883c20016f)
 
-![image](https://github.com/user-attachments/assets/fa798520-b606-4850-b0ae-df1cfac02956)
+
+![random_vs_maccor_0_01](https://github.com/user-attachments/assets/0479249f-3f56-4b9b-b7bb-17508688fd4a)
 
 MSE and MAPE error value can find in compare.txt
