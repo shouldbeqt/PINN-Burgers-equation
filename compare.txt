@@ -1,0 +1,25 @@
+viscosity: 0.1
+srtaight method vs pinn:
+mse = 2.780279003517304e-05
+mse procent = 0.002780279003517304
+mape = 1.173383355404455
+
+
+viscosity: 0.1
+maccormac method vs pinn:
+mse = 2.648741052973429e-08
+mse procent = 2.648741052973429e-06
+mape = 0.07364498174216752
+
+viscosity: 0.01
+srtaight method vs pinn:
+mse = 0.00027028827822971367
+mse procent = 0.027028827822971366
+mape = 1.0108515477712043
+
+
+viscosity: 0.01
+maccormac method vs pinn:
+mse = 1.2491452364504978e-05
+mse procent = 0.0012491452364504978
+mape = 0.21143871006424766
